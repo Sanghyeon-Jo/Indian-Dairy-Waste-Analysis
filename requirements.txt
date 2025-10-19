@@ -1,0 +1,25 @@
+# 데이터 처리 및 분석
+pandas>=1.5.0
+numpy>=1.21.0
+
+# 시각화
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# 통계 분석
+scipy>=1.9.0
+statsmodels>=0.13.0
+
+# 머신러닝
+scikit-learn>=1.1.0
+imbalanced-learn>=0.9.0
+
+# 기타 유틸리티
+adjustText>=0.7.0
+
+# Jupyter 환경 (선택사항)
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# 한글 폰트 지원 (Linux/Colab 환경용)
+# sudo apt-get install -y fonts-nanum (별도 설치 필요)
